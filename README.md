@@ -1,6 +1,6 @@
 ### Hi everyone 👋 My name is Iqbal Nur Haq Binkidi
-### <h5>🖋 Front End Developer [Cexup](https://github.com/cexup-team "The best search engine for privacy") </h5>
 ### <h5>🖋 IOS Developer [Cexup](https://github.com/cexup-team "The best search engine for privacy") </h5>
+### <h5>🖋 Front End Developer [Cexup](https://github.com/cexup-team "The best search engine for privacy") </h5>
 
 <!--
 **iqbalnurhaq/iqbalnurhaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
