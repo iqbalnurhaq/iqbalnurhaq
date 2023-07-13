@@ -3,8 +3,6 @@
 ### <h5>🖋 Flutter Developer [Cexup](https://github.com/cexup-team "The best search engine for privacy") </h5>
 ### <h5>🖋 Front End Developer [Cexup](https://github.com/cexup-team "The best search engine for privacy") </h5>
 
-- 🔭 I’m currently working on cexup and freelance
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalnurhaq)
 
 <!--
