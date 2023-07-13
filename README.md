@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on cexup and freelance
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalnurhaq)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalnurhaq)
 
 <!--
 **iqbalnurhaq/iqbalnurhaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
